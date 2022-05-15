@@ -52,6 +52,10 @@ Repositorio con la solución del hackaton
 > 
 > ***npm install --save-dev jest*** con este comando se agrega la dependencia Jest, nos ayudara para poder realizar las pruebas de unidad del proyecto.
 
+2. Estructura de la Pagina Web
+
+
+
 
 
 
