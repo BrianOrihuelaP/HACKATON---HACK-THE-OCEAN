@@ -4,12 +4,8 @@ Repositorio con la solución del hackaton
 
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
-|`Toma de requerimientos`|1|[Archivos que existentes en este repositorio]|
+|`Toma de requerimientos`|1|[Link al repo](https://github.com/BrianOrihuelaP/RequerimientosHacktheOcean)|
 |`Webpage`|2|[Link al repo](https://github.com/BrianOrihuelaP/Hackaton-Web-Page)|
 
 ## Pasos en la elaboracion del proyecto:
 
-***Lo primero fue identificar un problema.***
-
-1.Problematica
-- Animales Marinos en peligro de extincion.
