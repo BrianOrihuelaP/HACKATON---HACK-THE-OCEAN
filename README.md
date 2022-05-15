@@ -75,5 +75,9 @@ Repositorio con la solución del hackaton
 
 ![Contenido](images/Contenido.jpg)
 
+### 6.Proyecto Finalizado.
+
+![Home](images/Home.png)
+
 
 
