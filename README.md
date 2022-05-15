@@ -30,4 +30,7 @@ Repositorio con la solución del hackaton
 
 ![Lluvia de ideas](images/Hack.jpg)
 
+### 3.Levantamiento de requerimientos.
+
+
 
