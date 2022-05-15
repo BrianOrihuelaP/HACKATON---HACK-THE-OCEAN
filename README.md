@@ -12,4 +12,4 @@ Repositorio con la solución del hackaton
 ***Lo primero fue identificar un problema.***
 
 1.Problematica
--Animales Marinos en peligro de extincion.
+- Animales Marinos en peligro de extincion.
