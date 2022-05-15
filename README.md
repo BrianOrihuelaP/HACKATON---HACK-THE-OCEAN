@@ -21,7 +21,7 @@ Repositorio con la solución del hackaton
 * En nuestro Caso decidimos enfocarnos en los animales marinos en peligro de extincion, investigamos acerca de esta problematica y nuestra sorpresa es que casi no hay sitios web que se enfoquen en este problema y den la suficiente informacion para poder hacer algo al respecto.
 > Sabemos que este no es el unico problema que presenta el oceano.
 ![Tortuga nadando](images/tortuga.jpg)
-Foto de Wexor Tmg en Unsplash
+>Foto de Wexor Tmg en Unsplash
 
 ### 2.Propuesta de solucion.
 
