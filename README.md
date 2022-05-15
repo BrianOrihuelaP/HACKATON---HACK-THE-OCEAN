@@ -54,6 +54,8 @@ Repositorio con la solución del hackaton
 
 2. Estructura de la Pagina Web
 
+![Estructura](images/Pagina.jpg)
+
 
 
 
