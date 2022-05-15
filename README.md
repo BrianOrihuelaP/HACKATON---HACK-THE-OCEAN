@@ -34,3 +34,12 @@ Repositorio con la solución del hackaton
 
 
 
+### 4.Herramientas a utilizar
+
+* Azure: para la creacion del chat.
+* Github: para el despliegue de la pagina.
+* Miro: para el analisis del problema.
+* Node Js: para la maquetacion de la pagina web
+* Jest Js: para realizar las pruebas de la pagina web
+
+
