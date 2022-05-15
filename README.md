@@ -12,10 +12,9 @@ Repositorio con la solución del hackaton
 1. Identificar Problematica.
 2. Propuesta de solucion.
 3. Levantamiento de requerimientos
-4. Propuesta de solucion.
-5. Herramientas a utilizar
-6. Desarrollo de pagina web.
-7. Proyecto Finalizado con problematica y propuesta de solucion.
+4. Herramientas a utilizar
+5. Desarrollo de pagina web.
+6. Proyecto Finalizado con problematica y propuesta de solucion.
 
 ### 1.Identificacion de Problema
 
