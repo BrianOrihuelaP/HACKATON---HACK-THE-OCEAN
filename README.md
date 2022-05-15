@@ -49,6 +49,8 @@ Repositorio con la solución del hackaton
 1. Lo primero fue la creacion de un proyecto y agregando las dependencias que se utilizaran en dicho proyecto.
 > ***npm init*** es para inicializar el proyecto y crear un archivo json en nuestro proyecto.
 > 
-> ***npm install --save-dev jest*** con este comando se agrega la dependencia Jest, nos ayudara para poder realizar las pruebas de unidad del proyecto.<
+> ***npm install --save-dev jest*** con este comando se agrega la dependencia Jest, nos ayudara para poder realizar las pruebas de unidad del proyecto.
+
+
 
 
