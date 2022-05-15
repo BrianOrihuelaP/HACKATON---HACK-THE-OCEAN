@@ -9,7 +9,7 @@ Repositorio con la solución del hackaton
 
 ## Pasos en la elaboracion del proyecto:
 
-***Lo primero fue identificar un problema.
+***Lo primero fue identificar un problema.***
 
 1.Problematica
 -Animales Marinos en peligro de extincion.
