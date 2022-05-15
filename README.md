@@ -31,6 +31,14 @@ Repositorio con la solución del hackaton
 ![Lluvia de ideas](images/Hack.jpg)
 
 ### 3.Levantamiento de requerimientos.
+1. Primero se utilizo un formato de requerimientos proporcionado por LaunchX para la primera mision de Front-End. Para llenar este documento se realizo una llamada para estar de acuerdo en todos los aspectos o de noser asi en la mayoria.
+> El formato se encuentra en este Repositorio ya llenado con lo solicitado.
+2. Se creo el ***Buyer Persona.***
+*
+3. Se creo el ***Target Audience.***
+*
+4. Se Utilizo la paleta de colores.
+* Esto para
 
 
 
