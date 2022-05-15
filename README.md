@@ -18,5 +18,6 @@ Repositorio con la solución del hackaton
 
 ### 1.Identificacion de Problema
 
-* En nuestro Caso decidimos enfocarnos en los animales marinos en peligro de extincion, investigamos acerca de esta problematica y nuestra sorpresa es que casi no hay sitios web que se enfoquen en este problema y den la suficiente informacion par poder hacer algo al respecto.
+* En nuestro Caso decidimos enfocarnos en los animales marinos en peligro de extincion, investigamos acerca de esta problematica y nuestra sorpresa es que casi no hay sitios web que se enfoquen en este problema y den la suficiente informacion para poder hacer algo al respecto.
+> Sabemos que este no es el unico problema que presenta el oceano.
 
