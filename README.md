@@ -73,7 +73,7 @@ Repositorio con la solución del hackaton
 * Despues de añadir el codigo necesario se comienza a ñadir la informacion que nosotros consideramos de suma importancia para erradicar el problema y hacer conciencia en las personas.
 * Tambien se le añadieron imagenes y videos relacionados al tema propuesto junto con sus autores de dicho material al igual que con la informacion se coloco de donde fue extraida.
 
-
+![Contenido](images/Contenido.jpg)
 
 
 
