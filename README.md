@@ -28,6 +28,6 @@ Repositorio con la solución del hackaton
 * Crear una pagina web con toda la informacion respecto a los animales marinos que se encuentren en peligro de extincion al igual que los animales marinos que se extinguieron, pero no solo es una pagina web con puro texto que ni siquiera te tomarias el tiempo en leer, se construira con informacion relevante que vaya al grano sin tantos rodeos.
 * contara con un diseño llamativo y sencilla de navegar en ella para que todas las personas puedan utilizar, ademas de contar con un chat que te puede ayudar con algunas preguntas y/o dudas que tengas al respecto.
 
-![Lluvia de ideas](images/hack.jpg)
+![Lluvia de ideas](images/Hack.jpg)
 
 
