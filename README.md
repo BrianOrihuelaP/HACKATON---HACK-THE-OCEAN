@@ -56,9 +56,9 @@ Repositorio con la solución del hackaton
 
 ![Estructura](images/Pagina.jpg)
 
-3. Creando las pruebas de unidad del proyecto.
-
-
+3. Creacion de un repositorio en Github.
+* En esta parte ya se ha implementado parte del codigo y para poder visualizarlo en conjunto se creo un repositorio en Github, en este repositorio se ven los cambios realizados al igual que se desplego un github action para poder visualizar la pagina web en plena fase de desarrollo.
+>El repositorio esta indicado en el principio de este archivo.
 
 4. Creacion del Chat-Bot.
 
