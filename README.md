@@ -56,6 +56,14 @@ Repositorio con la solución del hackaton
 
 ![Estructura](images/Pagina.jpg)
 
+3. Creacion del Chat-Bot.
+
+* Gracias a la ayuda de ***Azure*** pudimos crear un chatbot con mucha facilidad.
+* Lo primero fue la creacion del recurso que utilizaremos y nombrar nuestro chatbot.
+* Despues nos redireccionamos a otra pagina de azure donde se encuentra ya creado nuestro recurso pero esta vacio, entonces agregaremos nuestra preguntas que se nos ocurrieron las personas podrian hacerle, y tambien le introdujimos las respuestas a dichas preguntas.
+* Al finalizar de agregar las preguntas y respuestas necesitamos publicar dicho servicio y crear una web app para consultar el codigo de dicho chatbot para poder colocarlo en nuestra pagina web.
+
+![Chat-Bot](images/Chat.jpg)
 
 
 
