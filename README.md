@@ -34,9 +34,11 @@ Repositorio con la solución del hackaton
 1. Primero se utilizo un ***Formato de requerimientos*** proporcionado por LaunchX para la primera mision de Front-End. Para llenar este documento se realizo una llamada para estar de acuerdo en todos los aspectos o de noser asi en la mayoria.
 > El formato se encuentra en este Repositorio ya llenado con lo solicitado.
 2. Se creo el ***Buyer Persona.***
-*
+* Se creo en base al tipo de persona que esta relacionado con la problematica como lo son los dueños de empresas u Hoteles en las costas y que contaminan los oceanos.
+> El formato se encuentra en este Repositorio ya llenado con lo solicitado.
 3. Se creo el ***Target Audience.***
-*
+* Se considero el publico que esta mas relacionado con el oceano y tambien los que mas contaminan , pero tambien las personas y empresas que pueden ayudar a resolver esta problematica.
+> El formato se encuentra en este Repositorio ya llenado con lo solicitado.
 4. Se Utilizo la ***Paleta de colores.***
 * Con [Palette Coolors](https://coolors.co/) buscamos la paleta de colores a utilizar y es en base al la temática del oceano, por lo que el equipo optó por usar la siguiente paleta de colores para el diseño de las paginas.
 ![image](https://user-images.githubusercontent.com/48420854/168480094-d472aa3a-d7c5-41c4-bdc2-ff0431e226a9.png)
