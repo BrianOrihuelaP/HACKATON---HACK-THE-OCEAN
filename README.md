@@ -47,21 +47,15 @@ Repositorio con la solución del hackaton
 
 ### 4.Herramientas a utilizar
 
-* Azure: para la creacion del chat.
+* Azure: para la creacion del chat y dezpliegue del sitio web estatico.
 * Git: para versionar el proyecto.
-* Github: para el despliegue de la pagina.
 * Miro: para el analisis del problema.
-* Node Js: para la maquetacion de la pagina web.
-* Jest Js: para realizar las pruebas de la pagina web.
 * Palette Coloors: para el diseño de la pagina web.
 * VsCode: Donde se introdujo el codigo que llevaria la pagina web.
 
 ### 5.Desarrollo de la Pagina web.
 
-1. Lo primero fue la creacion de un proyecto y agregando las dependencias que se utilizaran en dicho proyecto.
-> ***npm init*** es para inicializar el proyecto y crear un archivo json en nuestro proyecto.
-> 
-> ***npm install --save-dev jest*** con este comando se agrega la dependencia Jest, nos ayudara para poder realizar las pruebas de unidad del proyecto.
+1. Lo primero fue hacer un analisis sobre como llevar a cabo el problema, y como introducir al usuario a dichos temas, con ayuda de las herramientas antes mencionadas como miro, analisis en cuanto a que publico queremos llegar, crear nuestr buyer persona asi como un analisis de toma de requerimientos, de esta manera se pudo llevar a cabo el proyecto, asi el trabajo en equipo se llevo y controlo de mejor forma.
 
 2. Estructura de la Pagina Web
 
@@ -86,9 +80,17 @@ Repositorio con la solución del hackaton
 
 ![Contenido](images/Contenido.jpg)
 
-### 6.Proyecto Finalizado.
+6. Deploy en azure con static web apps
+![Contenido](images/azure0.png)
 
-![Home](images/Home.png)
+![Contenido](images/azure01.png)
+
+![Contenido](images/azuregit.png)
+
+
+### 7.Proyecto Finalizado.
+
+![Home](images/Capturaweb.png)
 
 Link a la pagina "https://green-sea-0482ba110.1.azurestaticapps.net"
 
