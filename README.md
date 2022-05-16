@@ -81,16 +81,16 @@ Repositorio con la solución del hackaton
 ![Contenido](images/Contenido.jpg)
 
 6. Deploy en azure con static web apps
-![Contenido](images/azure0.png)
+![Contenido](images/azure0.PNG)
 
-![Contenido](images/azure1.png)
+![Contenido](images/azure1.PNG)
 
 ![Contenido](images/azuregit.PNG)
 
 
 ### 7.Proyecto Finalizado.
 
-![Home](images/Capturaweb.png)
+![Home](images/Capturaweb.PNG)
 
 Link a la pagina "https://green-sea-0482ba110.1.azurestaticapps.net"
 
