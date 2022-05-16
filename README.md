@@ -83,9 +83,9 @@ Repositorio con la solución del hackaton
 6. Deploy en azure con static web apps
 ![Contenido](images/azure0.png)
 
-![Contenido](images/azure01.png)
+![Contenido](images/azure1.png)
 
-![Contenido](images/azuregit.png)
+![Contenido](images/azuregit.PNG)
 
 
 ### 7.Proyecto Finalizado.
