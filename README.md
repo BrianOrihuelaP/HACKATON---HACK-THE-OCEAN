@@ -90,6 +90,6 @@ Repositorio con la solución del hackaton
 
 ![Home](images/Home.png)
 
-Link a la pagina "https://brianorihuelap.github.io/Hackaton-Web-Page/"
+Link a la pagina "https://purple-field-0cd361d10.1.azurestaticapps.net/pages/aquarium.html"
 
 
