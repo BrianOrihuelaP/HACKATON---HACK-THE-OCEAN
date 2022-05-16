@@ -31,7 +31,7 @@ Repositorio con la solución del hackaton
 ![Lluvia de ideas](images/Hack.jpg)
 
 ### 3.Levantamiento de requerimientos.
-1. Primero se utilizo un ***Formato de requerimientos*** proporcionado por LaunchX para la primera mision de Front-End. Para llenar este documento se realizo una llamada para estar de acuerdo en todos los aspectos o de noser asi en la mayoria.
+1. Primero se utilizo un ***Formato de requerimientos*** proporcionado por LaunchX para la primera mision de Front-End. Para llenar este documento se realizo una llamada para estar de acuerdo en todos los aspectos o en la mayoria.
 > El formato se encuentra en este Repositorio ya llenado con lo solicitado.
 2. Se creo el ***Buyer Persona.***
 * Se creo en base al tipo de persona que esta relacionado con la problematica como lo son los dueños de empresas u Hoteles en las costas y que contaminan los oceanos.
