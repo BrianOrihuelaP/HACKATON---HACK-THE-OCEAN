@@ -90,6 +90,6 @@ Repositorio con la solución del hackaton
 
 ![Home](images/Home.png)
 
-Link a la pagina ""
+Link a la pagina "https://brianorihuelap.github.io/Hackaton-Web-Page/"
 
 
