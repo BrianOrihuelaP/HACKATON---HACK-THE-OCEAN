@@ -90,6 +90,6 @@ Repositorio con la solución del hackaton
 
 ![Home](images/Home.png)
 
-Link a la pagina "https://purple-field-0cd361d10.1.azurestaticapps.net/pages/aquarium.html"
+Link a la pagina "https://green-sea-0482ba110.1.azurestaticapps.net"
 
 
